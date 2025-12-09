@@ -1,0 +1,5 @@
+langchain==0.1.20
+langchain-openai==0.1.7
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+ddgs>=6.0.0
